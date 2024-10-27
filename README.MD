@@ -1,7 +1,7 @@
 # Olá, meu nome é [Luis Ricardo](https://seulink.com)👋
 
 ## Sobre mim
-Engenheiro de software em formação!
+Formado em técnico de informatica no IFPR, engenheiro de software em formação pela UNICV!
 
 ### Tecnologias que tenho conhecimento basico
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "Git"/></code>
@@ -9,8 +9,7 @@ Engenheiro de software em formação!
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" title = "Java"/></code>
 
-
-# Stats
+# Meus status
 <p align="center">
 <a href="https://github.com/luis356">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=luis356&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
@@ -18,6 +17,5 @@ Engenheiro de software em formação!
 </a>
 </p>
 
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luis.rics/)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-ricardo-60b361263/)
